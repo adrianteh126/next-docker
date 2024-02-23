@@ -1,0 +1,13 @@
+**/node_modules
+
+tmp*
+
+!config.ini
+
+logs/
+
+/docs/**
+
+*.log
+
+yarn.lock
